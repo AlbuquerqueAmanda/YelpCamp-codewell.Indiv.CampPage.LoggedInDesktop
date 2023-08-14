@@ -1,0 +1,156 @@
+@import url('https://fonts.googleapis.com/css2?family=Archivo:wght@400;700&display=swap');
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+    font-family: 'Archivo', sans-serif;
+}
+.map, .mountulap {
+    display: inline;
+}
+.map {
+    margin-left: 13%;
+    margin-right: 11%;
+    padding-top: 410px;
+    padding-bottom: 35px;
+    padding-left: 30px;
+    padding-right: 30px;
+    border: 1px solid gainsboro;
+    border-radius: 3px;
+}
+.m1, .m2, .m3, .t1, .reviews {
+    margin-left: 670px;
+}
+header {
+    margin-top: 30px;
+    margin-left: 175px;
+    margin-bottom: 90px;
+}
+.home, .login, .account {
+    vertical-align: super;
+}
+.home, .login {
+    color: gray;
+    font-weight: bold;
+}
+.home {
+    margin-left: 30px;
+}
+.login {
+    margin-left: 655px;
+}
+.muimage {
+    width: 500px;
+    position: absolute;
+    border: 1px solid gainsboro;
+    padding-top: 35px;
+    padding-bottom: 190px;
+    margin-top: -42px;
+    padding-left: 35px;
+    padding-right: 40px;
+    border-radius: 3px;
+}
+.reviews {
+    margin-top: 80px;
+    margin-left: 675px;
+    font-size: 14.5px;
+    border: 1px solid gainsboro;
+    padding-left: 22px;
+    position: absolute;
+    padding-right: 22px;
+    padding-top: 22px;
+    padding-bottom: 30px;
+    border-radius: 3px;
+}
+footer {
+    margin-left: 175px;
+    padding-bottom: 50px;
+    margin-top: 500px;
+    position: absolute;
+}
+.m1 {
+    margin-top: -120px;
+    padding-bottom: 7px;
+    position: absolute;
+    font-weight: bold;
+    font-size: 20px;
+}
+.t1 {
+    position: absolute;
+    margin-left: 370px;
+    margin-top: 270px;
+    font-weight: bold;
+}
+.m1, .m2, .m3 {
+    margin-left: 706px;
+}
+#m2 {
+    margin-top: -85px;
+}
+.m2, .m3 {
+    font-size: 14.5px;
+    padding-bottom: 3px;
+}
+.person {
+    font-weight: bold;
+    margin-bottom: 8px;
+    margin-top: 10px;
+}
+hr {
+    width: 460px;
+    color: gainsboro;
+    box-shadow: none;
+    border-width: 0.10px;
+    border-style: solid;
+}
+.message1, .message2, .message3 {
+    margin-bottom: 15px;
+}
+.date1, .date2, .date3 {
+    position: absolute;
+    margin-top: -25px;
+}
+.date1 {
+    margin-left: 405px;
+}
+.date2 {
+    margin-left: 400px;
+}
+.date3 {
+    margin-left: 391px;
+}
+.addreview {
+    margin-top: 20px;
+    margin-left: 310px;
+    width: 150px;
+    height: 40px;
+    border: none;
+    background-color: black;
+    color: white;
+    font-size: 13px;
+    font-weight: bold;
+    border-radius: 3px;
+    padding-left: 15px;
+}
+.m3 {
+    margin-top: 7px;
+    font-style: italic;
+}
+.message, .message1, .message2, .message3, .m2, .m3, .date1, .date2, .date3 {
+    color: gray;
+}
+.account {
+    color: gainsboro;
+    width: 160px;
+    border: none;
+    height: 40px;
+    font-size: 16px;
+    font-weight: bold;
+    border-radius: 3px;
+    margin-left: 25px;
+}
+i {
+    position: absolute;
+    margin-left: 322px;
+    margin-top: 33px;
+}
